@@ -90,6 +90,11 @@ body {
     transform: translateY(-5px);
 }
 
+.data-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 .card-info {
     padding: 15px;
 }
